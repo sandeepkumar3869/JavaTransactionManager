@@ -1,0 +1,13 @@
+Total Items in Cart:
+ 
+Sugar (1kg) X 45            -  Rs 2283.75
+
+Rice (5kg) X 4            -  Rs 801.36
+
+Total Bill Amount: 3085.1099
+Transaction Date: 2024-05-04
+Transaction No.: 1179460397
+Card Owner's Name: dfghj
+Card No.: (*&^%$#
+Payment done successfully of amount 3085.1099
+------------------------------------------------------

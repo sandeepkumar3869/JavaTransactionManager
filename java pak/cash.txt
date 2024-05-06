@@ -1,0 +1,9 @@
+Total Items in Cart:
+ 
+Sugar (1kg) X 10            -  Rs 507.5
+
+Total Bill Amount: 507.5
+Cash Received from Customer: 34543.0
+Cash Returned to Customer: 34035.5
+Payment of 507.5 done successfully by cash.
+------------------------------------------------------
